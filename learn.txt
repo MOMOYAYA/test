@@ -1,4 +1,4 @@
-git命令：1
+git命令：2
 同步分支：git fetch origin
 查看当前的分支，星号标识为当前分支： git branch
 查看该工程所有的分支，星号标识为当前分支：git branch -a

@@ -8,3 +8,4 @@ copy一个master分支（步骤1中，本地没有master分支，需要copy一�
 切到你的分支：git checkout feature-20190813XXXX
 将mastermeger到你的分支中：git merge master
 将你的分支从本地push到远程：git push
+添加一行

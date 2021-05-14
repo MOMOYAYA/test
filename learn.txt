@@ -4,7 +4,7 @@ git命令：
 查看该工程所有的分支，星号标识为当前分支：git branch -a
 copy一个master分支（步骤1中，本地没有master分支，需要copy一个）:git branch -c master
 切到master分支：git checkout master
-拉取master最新代码：git pull origin master
+拉取master最新代码123：git pull origin master
 切到你的分支：git checkout feature-20190813XXXX
 将mastermeger到你的分支中：git merge master
 将你的分支从本地push到远程：git push
